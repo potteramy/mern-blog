@@ -1,2 +1,1 @@
-# MERN Blogs
-
+# MERN Blog

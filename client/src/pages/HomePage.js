@@ -4,7 +4,7 @@ import { useUserContext } from "../ctx/UserContext"
 
 const HomePage = () => {
   const [ toDoList, setToDoList ] = useState([])
-  const { currUser } = useUserContext()
+  // const { currUser } = useUserContext()
   
   const checkForTodos = async () => {
     try {

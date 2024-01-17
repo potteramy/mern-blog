@@ -1,4 +1,4 @@
-const routher = require("express").Router();
+const router = require("express").Router();
  const {
     createPost,
     getAllPosts,
